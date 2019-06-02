@@ -40,3 +40,7 @@ Once it is done, it will reflect some time in seconds for which you have to wait
 The Excel file containing Username and Passwords combos, should not have any third column and the number of Username and Passwords should be same. 
 <b>Also, Make sure that the excel file should have two header "Username" and "Password" otherwise it will reflect error.</b> 
 
+
+# Disclaimer
+This project is only for Eductional Purposes and the misuse of the information in this project can result in criminal charges brought against the persons in question. I am in no way responsible for the misuse of the information.
+
