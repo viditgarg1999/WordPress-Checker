@@ -20,7 +20,7 @@ pip install xlwt
 ```
 Once it is done, you can move to the step 2
 
-2. Download the Wordpress_checker.py file and open it in python IDE (jupyter notebook, spider, IDLE...)
+2. Download the Wordpress_checker.py file and open it in python IDE (Jupyter Notebook, Spyder, IDLE...)
 3. When you RUN the file it will ask for following things:
 <br/>
 <ul>
