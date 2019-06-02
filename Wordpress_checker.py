@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 import time
@@ -58,15 +55,6 @@ df['Result']=result
 df.to_excel("desktop/Result.xlsx")
 driver.close()
 print("Process Successfully Completed!")
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
